@@ -1,2 +1,2 @@
-# Computational-Method-
+# Computational Method
 Computational Method 
